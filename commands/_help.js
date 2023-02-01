@@ -201,15 +201,8 @@ async(Void, citel, text) => {
         if(cmd.filename) arr.push(`✨FileName: ${cmd.filename}`)
         return await citel.reply(arr.join('\n'));
 
-client.on('message', message => {
-	if(message.body === 'hello') {
-		message.reply('pong');
-	}
-});
+
 
 
 
 })
-
-
-
