@@ -1,7 +1,7 @@
   <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
     <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com//main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
+    <h1 align="center">JarvisAI Whatsapp bot</h1>
   </a>
 </p>
    
@@ -21,7 +21,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
+  <p align="center"> Introducing Jarvis,Jarvis is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
  
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
@@ -45,7 +45,7 @@
 
 12. SUPPORT GROUP: <a href="https://chat.whatsapp.com/Fo5bT3lQSF53NfJp0u9BqJ"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ repo if you like Secktor.
+- Star ⭐ repo if you like JarvisAI.
 ### Thanks To
 
 - [Yusuf Usta](https://github.com/yusufusta) for Ideas
