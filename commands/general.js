@@ -54,13 +54,13 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/SamPandey001/Secktor-Md')
+        let { data } = await axios.get('https://api.github.com/repos/CyberExpert0101/JarvisAI-Bot')
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* secktorbot.tech/repo
-*Group:* secktorbot.tech/support
-*Deploy Your Own:*-
+*🍁 Repo:* https://github.com/CyberExpert0101/JarvisAI-Bot
+*website:* https://CyberExpert0101.github.io
+*YouTube:*-
  SecktorBot.tech/youtube`
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -69,8 +69,8 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Secktor-Repo",
-                    body: "Easy to Use",
+                    title: "Jarvis-Repo",
+                    body: "By Goutam",
                     thumbnail: log0,
                     mediaType: 4,
                     mediaUrl: '',
