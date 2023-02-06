@@ -61,7 +61,7 @@ cmd({
 *🍁 Repo:* https://github.com/CyberExpert0101/JarvisAI-Bot
 *website:* https://CyberExpert0101.github.io
 *YouTube:*-
- SecktorBot.tech/youtube`
+ https://youtube.com/@cyberexpert0101`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
