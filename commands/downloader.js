@@ -29,18 +29,7 @@ function __lobz(){const H=['R53FWbciV9','reply','rbot_18407','\x5c(\x20*\x5c)','
         }
     )
     //---------------------------------------------------------------------------
-cmd({
-pattern: 'gitclone ?(.*)',    // Github Repo Download
-        fromMe: WorkType, 
-        dontAdCommandList: true
-        }, 
-(async (QueenSew, input) => { 
-        try {
-await sendMessageDownloader(QueenSew, input, 'gitclone')
-                } catch (e) {
-                  return await QueenSew.client.sendMessage(QueenSew.jid,'Sorry I Could Not Find master Branch Of this Repo!\n\n Use Like This\n.gitclone RepoUrl/Branch',MessageType.text, { quoted: QueenSew.data})
-                  }
-})); 
+
 
 
 
